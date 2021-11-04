@@ -42,7 +42,7 @@ Semantic Versioning 2.0.0 will be followed after V1 however for now, where you s
 * git	(optional) (Used for repository cloning/downloads)
 
 ## Credits
-Credit to [Patrick Servello (patrick--)](https://github.com/patrick--) for his original implementation of FINS
+Credit to [Patrick Servello (ptrks)](https://github.com/ptrks) for his original implementation of FINS
 
 ## Install
 
